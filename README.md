@@ -13,3 +13,9 @@ Later on, we obtained the daily climate reports through web-scraping from Melbou
 As TN and BOD samplings occurs once a week, we had missing data in these columns.
 
 After predicting the missing values with almost (40%) accuracy, we performed a comprehensive Feature selection and machine learning study to find the best way to predict the power consumption
+
+
+Grouping_Inlet :
+
+We have several inlet flow records for each day. 
+In this code, we grouped the data by averaging inlet values for each day.
